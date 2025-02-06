@@ -22,9 +22,7 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 - ### About Me
 - 🌱 I’m currently learning React and TypeScript.
 - 💬 Ask me about web development and design.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-  ![Snake animation](https://github.com/Khadija4630/Khadija4630/blob/output/github-contribution-grid-snake.svg)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khadija-260048271/)
 <!--
 **Khadija4630/Khadija4630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
