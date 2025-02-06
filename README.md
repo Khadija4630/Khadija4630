@@ -12,7 +12,8 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
-
+</div>
+<div>
     <h3 style="width: 100%; text-align: center;">Backend</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
