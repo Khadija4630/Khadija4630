@@ -1,4 +1,4 @@
-## ![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=fadeIn&type=waving&color=gradient&height=100)
+## ![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=slideInLeft&type=waving&color=gradient&height=100)
 
 ## Hi there! 👋
 I'm Khadija, a passionate frontend developer with a love for creating beautiful and functional web applications. I enjoy working with both frontend and backend technologies to build full-stack solutions.
@@ -11,6 +11,7 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
 </div>
 <div>
