@@ -1,4 +1,4 @@
-## Hi there 👋
+## ![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <!--
 **Khadija4630/Khadija4630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
