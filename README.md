@@ -3,15 +3,15 @@
 ## Hi there! 👋
 I'm Khadija, a passionate frontend developer with a love for creating beautiful and functional web applications.
 
-### Technologies I Use
+### 🛠️ Technologies I Use
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: 20px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);"/>
 </div>
-
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
