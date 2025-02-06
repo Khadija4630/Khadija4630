@@ -1,4 +1,5 @@
-## ![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=slideInLeft&type=waving&color=gradient&height=100)
+##
+![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=slideInLeft&type=waving&color=gradient&height=100)
 
 ## Hi there! 👋
 I'm Khadija, a passionate frontend developer with a love for creating beautiful and functional web applications. I enjoy working with both frontend and backend technologies to build full-stack solutions.
