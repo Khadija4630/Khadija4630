@@ -1,5 +1,3 @@
-## ![](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20Profile!&animation=fadeIn&type=waving&color=gradient&height=100)
-
 ## Hi there! 👋
 I'm Khadija, a passionate frontend developer with a love for creating beautiful and functional web applications. I enjoy working with both frontend and backend technologies to build full-stack solutions.
 
@@ -25,12 +23,11 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### My Projects
-- [Project 1](https://github.com/Khadija4630/project1): A web application that does XYZ.
-- [Project 2](https://github.com/Khadija4630/project2): A mobile app that helps with ABC.
+- [Project 1](https://github.com/Khadija4630/project1): A web application that has user and admin dashboard.
+- [Project 2](https://github.com/Khadija4630/project2): A web application is review system to create post.
 
 - ### About Me
-- 🌱 I’m currently learning React and TypeScript.
-- 💬 Ask me about web development and design.
+- 🌱 I’m currently learning React and Next.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khadija-260048271/)
 
 - ### Fun Fact
