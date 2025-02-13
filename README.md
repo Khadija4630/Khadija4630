@@ -29,6 +29,7 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 - ### About Me
 - 🌱 I’m currently learning React and Next.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khadija-260048271/)
+- 💬 My Email :khadijahaque085@gmail.com
 
 - ### Fun Fact
 I love exploring new technologies and constantly improving my skills to create better user experiences.
