@@ -41,13 +41,13 @@ I love exploring new technologies and constantly improving my skills to create b
 
 ## 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khadija4630&show_icons=true&theme=dark)
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadija4630&theme=dracula)
-
+  
 ## 🚀 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija4630&layout=compact&theme=dark)
 
 <!--
 **Khadija4630/Khadija4630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadija4630&theme=dracula)
 
 Here are some ideas to get you started:
 
