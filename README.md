@@ -39,11 +39,13 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
   - ### Fun Fact
 I love exploring new technologies and constantly improving my skills to create better user experiences.
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; margin: 20px 0;">
 ## 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khadija4630&show_icons=true&theme=dark)
   
 ## 🚀 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija4630&layout=compact&theme=dark)
+</div>
 
 <!--
 **Khadija4630/Khadija4630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
