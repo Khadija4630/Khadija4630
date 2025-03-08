@@ -23,17 +23,13 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### My Projects
-- [Forum] Github: [https://github.com/Khadija4630/forum-client.git] Live Link: [https://forum-12-8aedb.web.app/] :
-- A web application featuring both user and admin dashboards.
+- [Forum] Github: [https://github.com/Khadija4630/forum-client.git] Live Link: [https://forum-12-8aedb.web.app/] : A web application featuring both user and admin dashboards.
   
-- [Review System] Github: [https://github.com/Khadija4630/review-system-client.git] Live Link: [https://review-system-client-11.web.app/] : 
-- A web application designed as a review system to create posts.
+- [Review System] Github: [https://github.com/Khadija4630/review-system-client.git] Live Link: [https://review-system-client-11.web.app/] : A web application designed as a review system to create posts.
 
-- [Movie Portal] Github: [https://github.com/Khadija4630/movie-portal-client.git] Live Link: [https://movie-client-10.web.app/] :
-- A web application serving as a movie portal.
+- [Movie Portal] Github: [https://github.com/Khadija4630/movie-portal-client.git] Live Link: [https://movie-client-10.web.app/] : A web application serving as a movie portal.
 
-- [Eco Friendly Adventures] Github: [https://github.com/Khadija4630/eco-friendly-adventures.git] Live Link: [https://eco-friendly-adventures-9.netlify.app/] :
-- A web application promoting eco-friendly adventures.
+- [Eco Friendly Adventures] Github: [https://github.com/Khadija4630/eco-friendly-adventures.git] Live Link: [https://eco-friendly-adventures-9.netlify.app/] : A web application promoting eco-friendly adventures.
 
 - ### About Me
 - 🌱 I’m currently learning Typescript and Next.js.
