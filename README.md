@@ -23,11 +23,11 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### My Projects
-- [Project 1](https://github.com/Khadija4630/project1): A web application that has user and admin dashboard.
-- [Project 2](https://github.com/Khadija4630/project2): A web application is review system to create post.
+- [Forum] [https://github.com/Khadija4630/forum-client.git]: A web application that has user and admin dashboard.
+- [Review System] [https://github.com/Khadija4630/review-system-client.git]: A web application is review system to create post.
 
 - ### About Me
-- 🌱 I’m currently learning React and Next.js.
+- 🌱 I’m currently learning Typescript and Next.js.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khadija-260048271/)
 - 💬 My Email :khadijahaque085@gmail.com
 
