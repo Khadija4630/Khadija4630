@@ -36,16 +36,16 @@ I'm Khadija, a passionate frontend developer with a love for creating beautiful 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khadija-260048271/)
 - 💬 My Email :khadijahaque085@gmail.com
 
+  - ### Fun Fact
+I love exploring new technologies and constantly improving my skills to create better user experiences.
+
 ## 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khadija4630&show_icons=true&theme=dark)
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadijah4630&theme=dracula)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khadija4630&theme=dracula)
 
 ## 🚀 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija4630&layout=compact&theme=dark)
 
-
-- ### Fun Fact
-I love exploring new technologies and constantly improving my skills to create better user experiences.
 <!--
 **Khadija4630/Khadija4630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
