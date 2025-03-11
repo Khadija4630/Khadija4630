@@ -42,8 +42,6 @@ I love exploring new technologies and constantly improving my skills to create b
 ## 📊 GitHub Stats
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khadija4630&show_icons=true&theme=dark)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khadija4630&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
   
 ## 🚀 Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khadija4630&layout=compact&theme=dark)
